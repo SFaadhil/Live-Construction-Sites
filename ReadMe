@@ -1,0 +1,11 @@
+The Live-Construction-Sites is a webscraping program that works of TNRERA, which is a government website that has a list of all the approved construction sites from 2023 to 2026,  
+and is constantly updated 
+
+As of now, the program is a one-run and go, which means the program can be run once to get data for all the years, 
+
+Moving forward, here are the things that can be done 
+-Using Google API (Which is paid) to make it so that this data is updated directly on a google sheet  
+-Using a hosting software to host the program online in such a way where if a new construction site is added to the current year, it updates the file  (ise render.com or railway.app) 
+-Using both Google API and a hosting software, we can make the program to be in such a way where if there is a new construciton site added, then it will just update the construction site onto the google site, this is twice the additional expenses.
+
+
