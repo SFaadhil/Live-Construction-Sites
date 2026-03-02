@@ -8,4 +8,10 @@ Moving forward, here are the things that can be done
 -Using a hosting software to host the program online in such a way where if a new construction site is added to the current year, it updates the file  (ise render.com or railway.app) 
 -Using both Google API and a hosting software, we can make the program to be in such a way where if there is a new construciton site added, then it will just update the construction site onto the google site, this is twice the additional expenses.
 
-
+How to setup and run the program
+1. Make sure python is installed in your device, if not, install the latest version of python
+2. Download requirements.txt
+3. Open command line and change directory to the folder in which requirements.txt is present
+4. run python -m pip install requiements.txt
+5. Once that is done, download the python code / copy the python code and run it.
+6. Done
